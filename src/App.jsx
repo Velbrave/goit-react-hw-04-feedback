@@ -24,7 +24,7 @@ export const App = () => {
         break;
 
       default:
-        console.log('Invalid type');
+        console.log('Invalid type data');
     }
   };
 
